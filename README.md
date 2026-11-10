@@ -2,7 +2,10 @@
 
 Aplicación con interfaz gráfica que resuelve problemas de programación lineal por el **método de la Gran M**, mostrando el proceso completo paso a paso. Proyecto del curso **Optimización** — Universidad de Antioquia, 2026-2.
 
-**Integrantes:** _(nombres del equipo)_
+**Integrantes:**
+- Mariana Ospina Cardona
+- Yasiris Mercado
+
 **Aplicación en línea:** _(URL de Streamlit Cloud)_
 
 ## Qué hace
@@ -26,8 +29,8 @@ Aplicación con interfaz gráfica que resuelve problemas de programación lineal
 ## Instalación y ejecución
 
 ```bash
-git clone <url-del-repositorio>
-cd <carpeta-del-repositorio>
+git clone https://github.com/marianaoc24/solucionador-pl.git
+cd solucionador-pl
 pip install -r requirements.txt
 streamlit run app.py
 ```
