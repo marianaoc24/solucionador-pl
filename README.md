@@ -6,7 +6,7 @@ Aplicación con interfaz gráfica que resuelve problemas de programación lineal
 - Mariana Ospina Cardona
 - Yasiris Mercado
 
-**Aplicación en línea:** _(URL de Streamlit Cloud)_
+**Aplicación en línea:** https://solucionador-pl-udea.streamlit.app/ 
 
 ## Qué hace
 
